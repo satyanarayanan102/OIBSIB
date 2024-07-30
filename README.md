@@ -79,10 +79,6 @@ You may need to install the required libraries if they are not already available
 pip install pandas numpy matplotlib seaborn scikit-learn
 ```
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 For any questions or feedback, please contact satyanarayanan2002@gmail.com
